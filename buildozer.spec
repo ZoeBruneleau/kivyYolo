@@ -32,4 +32,4 @@ android.debug = 1
 version = 0.1
 
 #Android sdk manager path
-andriod.sdk_path = /buildozer/android-sdk
+android.sdk_path = ~/android-sdk
