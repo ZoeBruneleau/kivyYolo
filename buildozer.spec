@@ -22,7 +22,7 @@ android.permissions = CAMERA
 requirements = python3,kivy,numpy,opencv-python,torch,torchvision,ultralytics
 
 # (str) Android NDK version to use
-android.ndk = 19b
+android.ndk = 25
 
 # (bool) Indicate whether the application should be compiled in debug mode
 # (you may need to set it to 0 for a release build)
