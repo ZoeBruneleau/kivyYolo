@@ -31,4 +31,5 @@ android.debug = 1
 # (str) Application versioning (method 1)
 version = 0.1
 
-
+#Android sdk manager path
+andriod.sdk_path = /buildozer/android-sdk
