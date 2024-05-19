@@ -19,7 +19,7 @@ android.permissions = CAMERA
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy,numpy,opencv-python,torch,torchvision,ultralytics
+requirements = python3,kivy,numpy,opencv-python,torch,torchvision,ultralytics,certifi
 
 # (str) Android NDK version to use
 android.ndk = 25
