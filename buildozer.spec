@@ -33,3 +33,7 @@ version = 0.1
 
 #Android sdk manager path
 android.sdk_path = ~/android-sdk
+
+source.include_exts = py,png,jpg,kv,atlas,txt,md,json,xml
+# If using setup.py:
+source.include_patterns = setup.py
